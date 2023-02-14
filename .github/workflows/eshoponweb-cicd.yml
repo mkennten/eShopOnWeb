@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-NAME
   LOCATION: northeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
-  WEBAPP-NAME: az400-webapp-NAME
+  SUBSCRIPTION-ID: c3fc506e-68c0-4485-a09e-306bcebaa250
+  WEBAPP-NAME: az400-webapp-mke123
 
 
 jobs:
